@@ -1,0 +1,26 @@
+{
+  "name": "f8_learning",
+  "version": "1.0.0",
+  "description": "Phuoc's Demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "node js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NguyenVietPhuoc/App_Demo.git"
+  },
+  "author": "Nguyen Viet Phuoc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NguyenVietPhuoc/App_Demo/issues"
+  },
+  "homepage": "https://github.com/NguyenVietPhuoc/App_Demo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
